@@ -4,9 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<!-- 放关于研究的详细内容 -->
-<!--{% include toc %} -->
----
 
 ## Publications
 - Qingliang Fan and Yaqian Wu (2024). "[Endogenous Treatment Effect Estimation with a Large and Mixed Set of Instruments and Control Variables](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4146397)", Review of Economics and Statistics
@@ -14,7 +11,6 @@ author_profile: true
   <br>
 
 
----
 
 ## Working Papers
 
