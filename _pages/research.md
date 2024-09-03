@@ -1,5 +1,6 @@
 ---
 # layout: archive # too wide
+title: 
 permalink: /research/
 author_profile: true
 ---
