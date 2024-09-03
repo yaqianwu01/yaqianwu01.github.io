@@ -10,7 +10,7 @@ main:
     url: /about/
     
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   #- title: "Talks"
   #  url: /talks/    
