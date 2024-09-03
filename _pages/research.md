@@ -6,8 +6,7 @@ author_profile: true
 
 Research Interests
 ======
-
-
+*
 
 Publications
 ======
