@@ -7,7 +7,7 @@ author_profile: true
 
 Teaching
 ======
-* Statistics, undergraduate level, Huazhong University of Science and Technology, Fall 2024
+* Statistics, undergraduate level, Huazhong University of Science and Technology, Fall 2024.
 
 Teaching Assistant
 ======
