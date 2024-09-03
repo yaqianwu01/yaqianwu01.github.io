@@ -1,5 +1,19 @@
 ---
-
+permalink: /
+title: "Welcome!"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Here is **Yaqian Wu (武亚倩)**.
+
+I am currently a postdoctoral researcher at School of Economics, Huazhong University of Science and Technology. Before joining HUST, I obtained my Ph.D degree  in statistics  from the Department of Statistics and Data Sciences, Xiamen Univerisity. 
+
+My research focuses on econometrics.
+
+Contact
+======
+- **Email:**  wuyq2024[at]hust.edu.cn
+- **Address:** 
