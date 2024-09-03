@@ -12,6 +12,6 @@ Teaching
 Teaching Assistant
 ======
 
-* Principle of statistics, undergraduate level, Xiamen University, Fall 2019.
+* Principle of Statistics, undergraduate level, Xiamen University, Fall 2019.
 * Mathematical Statistics, undergraduate level, Xiamen University, Spring 2020.
 * Mathematical Analysis, undergraduate level, Xiamen University, Fall 2020, Spring 2021. 
