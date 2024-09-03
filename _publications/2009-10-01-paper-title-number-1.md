@@ -3,8 +3,7 @@ permalink: /
 title: "Welcome!"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - 
 ---
 
 Here is **Yaqian Wu (武亚倩)**.
