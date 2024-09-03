@@ -16,9 +16,14 @@ Education
 
 Experience
 ======
+
 Teaching Assistant
+-----
 * Fall 2019:
 * Spring 2020: 
 * Fall 2020: 
-* Spring 2021: 
+* Spring 2021:
+
+Honors and Awards
+======
   
