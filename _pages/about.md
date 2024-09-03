@@ -16,4 +16,4 @@ My research focuses on econometrics.
 Contact
 ======
 - **Email:**  wuyq2024[at]hust.edu.cn
-- **Address:** 
+- **Address:** School of Economics, Huazhong University of Science and Technology, Luoyu Road 1037, Wuhan, Hubei, China, 430074
