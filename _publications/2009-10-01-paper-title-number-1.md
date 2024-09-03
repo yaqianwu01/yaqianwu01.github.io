@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "[Endogenous Treatment Effect Estimation with a Large and Mixed Set of Instruments and Control Variables](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4146397)"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
