@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Here is **Yaqian Wu (武亚倩)**.
+My name is **Yaqian Wu (武亚倩)**.
 
 I am currently a postdoctoral fellow at School of Economics, Huazhong University of Science and Technology. Before joining HUST, I obtained my Ph.D degree  in statistics  from the Department of Statistics and Data Sciences, Xiamen Univerisity. 
 
