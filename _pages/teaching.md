@@ -5,6 +5,6 @@ permalink: /teaching/
 author_profile: true  
 ---
 
-Huazhong University of Science and Technology
+Teaching
 ======
-* Statistics, undergraduate level, Fall 2024
+* Statistics, undergraduate level, Huazhong University of Science and Technology, Fall 2024
