@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true  
 ---
 
-Teaching
+Instructor
 ======
 * Statistics, undergraduate level, Huazhong University of Science and Technology, Fall 2024.
 
