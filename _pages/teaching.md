@@ -8,6 +8,7 @@ author_profile: true
 Instructor
 ======
 * Statistics, undergraduate level, Huazhong University of Science and Technology, Fall 2024.
+* Econometrics, master level, Huazhong University of Science and Technology, Fall 2024.
 
 Teaching Assistant
 ======
