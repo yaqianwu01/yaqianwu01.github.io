@@ -12,7 +12,7 @@ redirect_from:
 
 Publications 
 ======
-1. "[Endogenous Treatment Effect Estimation with a Large and Mixed Set of Instruments and Control Variables](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4146397)", ***The Review of Economics and Statistics***, 2024, with [Qingliang Fan](https://michaelqfan.weebly.com/).
+1. "Endogenous Treatment Effect Estimation with a Large and Mixed Set of Instruments and Control Variables", ***The Review of Economics and Statistics***, 2024, with [Qingliang Fan](https://michaelqfan.weebly.com/). [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4146397)
 
 
 Working Papers
