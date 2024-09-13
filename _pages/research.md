@@ -21,5 +21,5 @@ Working Papers
 
 1. "Estimating Counterfactual Distribution Functions via Optimal Distribution Balancing", with [Zongwu Cai](https://zongwucai.github.io/), Ying Fang and Ming Lin, 2024. 
 1. "Estimation of Treatment Effects via MMD Balancing Weights", with [Zongwu Cai](https://zongwucai.github.io/), Ying Fang and Ming Lin, 2024.
-1. "[Consistent Test for Stochastic Dominance Relations under Multi-way Clustering](http://yaqianwu01.github.io/files/SD_multiway_clustering.pdf)", with [Qingliang Fan](https://michaelqfan.weebly.com/) and [Yu-Chin Hsu](https://yuchinhsu.yolasite.com/), 2024.
+1. "Consistent Test for Stochastic Dominance Relations under Multi-way Clustering", with [Qingliang Fan](https://michaelqfan.weebly.com/) and [Yu-Chin Hsu](https://yuchinhsu.yolasite.com/), 2024. [[pdf]](http://yaqianwu01.github.io/files/SD_multiway_clustering.pdf)
  
