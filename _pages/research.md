@@ -26,4 +26,4 @@ Working Papers
 Work in Progress
 ======
 
-1. Estimating Causal Effects under Heterogeneous Network Interference
+1. Estimating Causal Effects under Heterogeneous Network Interference.
